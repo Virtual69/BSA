@@ -5,4 +5,4 @@ secound_number = input('secound name: ')
 
 bsa = first_number + secound_number
 
-print(f'welcomw to our group  {bsa} ')
+print(f'welcome to our group  {bsa} ')
